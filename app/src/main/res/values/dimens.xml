@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="buttonshorizontalpadding">15dp</dimen>
+    <dimen name="buttontextsize">20dp</dimen>
+</resources>
